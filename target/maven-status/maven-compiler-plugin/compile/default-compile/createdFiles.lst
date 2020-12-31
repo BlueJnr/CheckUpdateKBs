@@ -1,0 +1,8 @@
+com\telefonica\checkupdatekbs\service\impl\KbsCatalogServiceImpl.class
+com\telefonica\checkupdatekbs\dao\impl\KbsCatalogDaoImpl.class
+com\telefonica\checkupdatekbs\dao\KbsCatalogDao.class
+com\telefonica\checkupdatekbs\test\Test.class
+com\telefonica\checkupdatekbs\service\KbsCatalogService.class
+com\telefonica\checkupdatekbs\model\domain\Catalog.class
+com\telefonica\checkupdatekbs\model\thirdparty\CatalogRow.class
+com\telefonica\checkupdatekbs\config\Connection.class
